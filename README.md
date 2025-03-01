@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning AWS ☁️ for cloud computing and Power BI 📉 for data visualization to enhance my expertise in cloud services and business intelligence.<br>
-💬 Ask me about Python programming 🐍, SQL optimization 🗄️, full-stack web development 🌐, and Power BI 📊. I’m always open to discussions on backend frameworks like Django 🚀, database management with MySQL 🏛️, data visualization 📉, and deploying scalable applications using Docker 🐳 and cloud technologies ☁️! 💡
+- 💬 Ask me about Python programming 🐍, SQL optimization 🗄️, full-stack web development 🌐, and Power BI 📊. I’m always open to discussions on backend frameworks like Django 🚀, database management with MySQL 🏛️, data visualization 📉, and deploying scalable applications using Docker 🐳 and cloud technologies ☁️! 💡
 
 - 📫 How to reach me *mutturajnilugalla123@gmail.com*
 
