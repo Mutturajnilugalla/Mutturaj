@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning AWS ☁️ for cloud computing and Power BI 📉 for data visualization to enhance my expertise in cloud services and business intelligence.<br>
 - 💬 Ask me about Python programming 🐍, SQL optimization 🗄️, web development 🌐, and Power BI 📊. I’m always open to discussions on backend frameworks like Django 🚀, database management with MySQL 🏛️, and data visualization 📉! 💡<br>
 
-<p align="left">- 📫 How to reach me *mutturajnilugalla123@gmail.com*</p>
+- 📫 How to reach me *mutturajnilugalla123@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
